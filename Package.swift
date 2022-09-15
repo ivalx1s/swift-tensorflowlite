@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "TensorFlowLite",
             url: "https://github.com/ivalx1s/swift-tensorflowlite-spm/releases/download/2.7.0/TensorFlowLite.xcframework.zip",
-            checksum: "86fdf03ba75170448146147bc116127bdc4f69189a741e7c4d2e9bb67433c699"
+            checksum: "af8ede7bf5bb506b06349fbbf7d0955b38a63784a2adcac1fcc2eae75d53f12b"
         )
     ]
 )
